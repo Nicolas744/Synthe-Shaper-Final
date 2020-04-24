@@ -1,9 +1,9 @@
 /*
  * main1.c
  *
- *  Created on: Feb 7, 2019
- *      Author: Nicolas Bontems (i.e 561 251 1903)
- *       */
+ *      Author: Nicolas Bontems
+ *       
+ */
 #include "driverlib.h"
 #include "device.h"
 #include "F28x_Project.h"
