@@ -6,7 +6,7 @@
 #include <AIC23.h>
 #include <interrupt.h>
 // MIDI includes
-#include "MIDI.h"
+#include "MIDIcpu2.h"
 
 /******************************************************************/
                    /*VARIABLES AND PROTOTYPES*/
