@@ -1,4 +1,10 @@
-// standard included
+/*
+ * main2.c
+ *
+ *      Author: Wesley Finch
+ *       
+ */
+// standard includes
 #include <F28x_Project.h>
 #include <stdlib.h>
 #include <math.h>
